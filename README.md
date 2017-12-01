@@ -19,6 +19,8 @@ Dataset used was <a href="http://nlp.cs.illinois.edu/HockenmaierGroup/Framing_Im
 
 
 # Output
+![output](https://user-images.githubusercontent.com/23000971/33495366-2b5a9cd6-d6ec-11e7-9cd0-2b7adce57b3e.JPG)
+![text](https://user-images.githubusercontent.com/23000971/33495435-7a9bd10c-d6ec-11e7-9b26-77c6865c0551.JPG)
 
 
 # Dependencies
