@@ -15,6 +15,8 @@ The Decoder is a Recurrent Neural Network(RNN) which does language modelling up 
 Dataset used was <a href="http://nlp.cs.illinois.edu/HockenmaierGroup/Framing_Image_Description/KCCA.html">Flickr8k dataset</a>.
 
 # Input
+![input](https://user-images.githubusercontent.com/23000971/33495332-fbd2b75a-d6eb-11e7-999a-09fdc4255a6f.JPG)
+
 
 # Output
 
