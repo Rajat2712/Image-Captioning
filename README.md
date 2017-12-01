@@ -4,7 +4,20 @@ This repository contains an implementation of image captioning based on neural n
 
 Normal Sampling and Beam Search were used to predict the caption of images.
 
+
+# Network Topology:-
+
+## Encoder
+The Convolutional Neural Network(CNN) can be thought of as an encoder. The input image is given to CNN to extract the features. The last hidden state of the CNN is connected to the Decoder.
+## Decoder
+The Decoder is a Recurrent Neural Network(RNN) which does language modelling up to the word level. The first time step receives the encoded output from the encoder and also the <START> vector.
+
 Dataset used was <a href="http://nlp.cs.illinois.edu/HockenmaierGroup/Framing_Image_Description/KCCA.html">Flickr8k dataset</a>.
+
+# Input
+
+# Output
+
 
 # Dependencies
 
